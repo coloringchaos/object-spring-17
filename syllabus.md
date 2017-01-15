@@ -7,35 +7,40 @@ feature-img: "img/led-matrix.jpg"
 
 
 ## Course Description
-This course is an introduction to **physical computing**. Physical computing, in the broadest sense, means building interactive physical systems that can sense and respond to the analog world. This class is an exploration of computing that starts from the perspective that humans are fundamentally physical beings. In this course, we take the human body as a given, and attempt to design projects that can interact with humans and the physical world. You will learn how a computer converts the changes in energy given off by our bodies (in the form of sound, light, motion, touch, and other forms) into changing electronic signals that it can read and interpret. We will learn about ways to integrate sensors, motors, and simple electronics into interactive objects.
+This course is an introduction to **physical computing**. Physical computing, in the broadest sense, means building interactive physical systems that can sense and respond to the analog world. This class is an exploration of computing that starts from the perspective that humans are fundamentally physical beings. In this course, we take the human body as a given, and work to design projects that can interact with humans and the physical world. You will learn how a computer converts the changes in energy given off by our bodies (in the form of sound, light, motion, touch, and other forms) into changing electronic signals that it can read and interpret. We will learn about ways to integrate sensors, motors, and simple electronics into interactive objects.
 
 The platform for the class is a microcontroller, a single-chip computer that can fit in your hand. The core technical concepts include digital, analog and serial input and output. Students will have weekly lab exercises to build skills with the microcontroller and related tools, and longer assignments in which they apply the principles from weekly labs in creative applications. Both individual work and group work is required.
 
-Physical computing takes a hands-on approach, which means that you spend a lot of time building circuits, soldering, writing programs, building structures to hold sensors and controls, and figuring out how best to make all of these things relate to a person's physical expression. Although extremely technical, this course is not just about the technology; we will spend time each week discussing interaction design and what it means to incorporate electronic projects into our lives. Core interaction design concepts include user observation, affordances, and converting physical action into digital information.
+Physical computing takes a hands-on approach, which means that you spend a lot of time building circuits, soldering, writing programs, building enclosures to hold sensors and controls, and figuring out how best to make all of these things relate to a person's physical expression. Although extremely technical, this course is not just about the technology; we will spend time each week discussing interaction design and what it means to incorporate electronic projects into our lives. Core interaction design concepts include user observation, affordances, and converting physical action into digital information.
 
 Although programming is required to successfully complete projects and assignments, we will NOT be spending any time on introductory programming concepts. You should already be comfortable with general programming concepts (variables, loops, data types, etc.).
 
-## Class Expectations
+<!-- ## Class Expectations
 + Arrive on time.
 + Turn cell phones off.
 + Bring your imagination.
 + Document everything to your blog!
 + Get comfortable with failure.
-+ You can do this.
++ You can do this. -->
+
+<!-- This is a fast-paced course with new topics covered every class and each new concept building on top of previous ones. Attendance and class participation are important components of the course. You are encouraged to ask relevant questions, share your thoughts, and work with fellow students. You are expected to spend all class time working on classrelated projects. Class time should not be used for any other classes or activities.  -->
+
 
 ## Attendance
 Attendance is mandatory. Students are allowed three absences* after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence. 
 
-Please inform me via email if you are going to miss a class.
+As unavoidable circumstances might occur, 3 absences are allowed during the semester. Every additional class missed causes a 10% reduction in a student’s final grade. Extreme lateness counts as 1/3 of an absence. You are responsible for all material and announcements made in class. Do not expect me to catch you up for classes you’ve missed -- that’s your responsibility. Critique days are required; an absence that day will impact your grade for that project.
 
-**ALL absences fall under these three absences (e.g. minor illnesses and injuries, oversleeping, vacations, job interviews, ski-days, family obligations and situations, etc.) so it is not wise to use them all at the start of the semester. Exceptions may be made for religious holidays, severe illnesses, and prolonged family emergencies.*
+***ALL absences fall under these three absences*** (this includes minor illnesses and injuries, oversleeping, vacations, job interviews, ski-days, family obligations and situations, etc.) so it is not wise to use them all at the start of the semester. In extreme situations such as major illnesses, death in the family (or close friends), religious observances (see below), or school related absences, please talk or email me *before* your absence.
+
+
 
 ## Participation
 This is a participatory course. You are expected to participate in discussions and give feedback to other students both in class and participate with their projects. Be cognizant of how you interact in class discussions. If you find yourself commenting more frequently than most other people in the class, step back and give others a chance to contribute (even if you have something to say). If you tend to hesitate to join discussions, challenge yourself to jump in. Additionally, I encourage you to utilize the blogs as a way to connect with your classmates and share your ideas.
 
-I take critiques very seriously. Even if your project is not fully completed, **it is required that you come to class to give feedback on your classmate's projects**. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
+I take critiques very seriously. *Even if your project is not fully completed, it is required that you come to class to give feedback on your classmate's projects*. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
-20% of your final semester grade is based on attendance and participation. If you come to class and are consistently prepared, you are guaranteed to receive a C in this category. Full credit for attendance and participation is reserved for those who go above and beyond. 
+**20% of your final semester grade is based on participation**. If you consistently come to class and are prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
 
 
 ## Grading
@@ -52,24 +57,27 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 | Project 2 				| 250 pts |
 | Labs - 10 total			| 250 pts |
 | Quizzes - 2 total			| 150 pts |
-| Attendance & Participation| 200 pts |
+| participation             | 200 pts |
 {:.mbtablestyle}
 
-excellent work (90-100%) <br>
-above average work (80-89%) <br>
-average or competent work (70-79%) <br>
-below average and unsatisfactory work (below 70%) <br>
+Labs are graded based on their completeness (meets the assignment’s requirements), timeliness (turned in on time), and technical proficiency (works correctly). Projects are graded based on their concept, creativity/design, and technical sophistication. 
 
-94-100 A <br>
-90-93 A- <br>
-87-89 B+ <br>
-84-86 B <br>
-80-83 B- <br>
-77-79 C+ <br>
-74-76 C <br>
-70-73 C- <br>
-60-69 D <br>
-0-50 F
+<br>
+
+*Letter grades will be assigned based on the following breakdown:*
+
+|---------------|--------:|
+| 94-100 				| A  |
+| 90-93 				| A- |
+| 87-89					| B+ |
+| 84-86					| B  |
+| 80-83					| B- |
+| 77-79					| C+ |
+| 74-76					| C  |
+| 70-73					| C- |
+| 60-69					| D  |
+| 0-50					| F  |
+{:.mbtablestyle}
 
 *You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
 
@@ -110,7 +118,7 @@ For more about the lab visit [BTUlab.com](http://www.btulab.com/)
 
 
 ## Course Content
-The instructor of this class reserves the right to show a broad range of course materials, some of which assume the audience to be adult in age and demeanor. should a student feel offended by something they have seen or heard, it would appreciated, but not required, to stay to be part of the dialogue to offer your perspective. however if the student feels that they cannot stay, they are welcome to leave the classroom as discretely as possible.
+The instructor of this class reserves the right to show a broad range of course materials, some of which assume the audience to be adult in age and demeanor. Should a student feel offended by something they have seen or heard, it would appreciated, but not required, to stay to be part of the dialogue to offer your perspective. However if the student feels that they cannot stay, they are welcome to leave the classroom as discretely as possible.
 
 
 
