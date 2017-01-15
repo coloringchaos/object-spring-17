@@ -23,7 +23,7 @@ Although programming is required to successfully complete projects and assignmen
 + Get comfortable with failure.
 + You can do this. -->
 
-<!-- This is a fast-paced course with new topics covered every class and each new concept building on top of previous ones. Attendance and class participation are important components of the course. You are encouraged to ask relevant questions, share your thoughts, and work with fellow students. You are expected to spend all class time working on classrelated projects. Class time should not be used for any other classes or activities.  -->
+<!-- This is a fast-paced course with new topics covered every class and each new concept building on top of previous ones. Attendance and class participation are important components of the course. You are encouraged to ask relevant questions, share your thoughts, and work with fellow students. You are expected to spend all class time working on class related projects. Class time should not be used for any other classes or activities.  -->
 
 
 ## Attendance
