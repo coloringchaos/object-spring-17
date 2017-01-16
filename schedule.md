@@ -19,7 +19,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Set up your [Online Object Journal](/journal/) and email me the link
++ Set up your [Online Object Journal](/object-spring-17/journal/) and email me the link
 + Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 + Read [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
@@ -29,7 +29,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 1](/lab-1)
++ Complete [Lab 1](/object-spring-17/lab-1)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
 + Read [There Are No Electrons]()
 
@@ -40,7 +40,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 2
-**Tuesday, January 24th** <br> Using a Multimeter, Switches, Materials, Soldering, Laser Cutting <br> **Due:** <span class="highlight">[Lab 1](/lab-1)</span>
+**Tuesday, January 24th** <br> Using a Multimeter, Switches, Materials, Soldering, Laser Cutting <br> **Due:** <span class="highlight">[Lab 1](/object-spring-17/lab-1)</span>
 
 *For Next Class:*
 

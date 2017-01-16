@@ -57,7 +57,7 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 | Project 2 				| 250 pts |
 | Labs - 10 total			| 250 pts |
 | Quizzes - 2 total			| 150 pts |
-| participation             | 200 pts |
+| Participation             | 200 pts |
 {:.mbtablestyle}
 
 Labs are graded based on their completeness (meets the assignment’s requirements), timeliness (turned in on time), and technical proficiency (works correctly). Projects are graded based on their concept, creativity/design, and technical sophistication. 
