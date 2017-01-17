@@ -12,7 +12,7 @@ feature-img: "img/bg1.jpg"
 [Claudia Escue]()<br>
 [Gabe Ezcurra Taiganides]()<br>
 [Cassandra Goodby]()<br>
-[Marcus Hudobnik]()<br>
+[Markus Hudobnik](https://rnarkus.wordpress.com/)<br>
 [Ash Khatter]()<br>
 [Eric Laufer]()<br>
 [Wyatt Megla]()<br>
