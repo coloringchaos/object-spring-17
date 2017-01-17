@@ -13,7 +13,7 @@ feature-img: "img/bg1.jpg"
 [Gabe Ezcurra Taiganides]()<br>
 [Cassandra Goodby]()<br>
 [Markus Hudobnik](https://rnarkus.wordpress.com/)<br>
-[Ash Khatter]()<br>
+[Ash Khatter](https://ashkhatterprojects.wordpress.com)<br>
 [Eric Laufer]()<br>
 [Wyatt Megla]()<br>
 [Melissa Moonie]()<br>
