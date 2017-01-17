@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
-feature-img: "img/led-matrix.jpg"
+feature-img: "img/bg1.jpg"
 ---
 
 
@@ -13,7 +13,7 @@ The platform for the class is a microcontroller, a single-chip computer that can
 
 Physical computing takes a hands-on approach, which means that you spend a lot of time building circuits, soldering, writing programs, building enclosures to hold sensors and controls, and figuring out how best to make all of these things relate to a person's physical expression. Although extremely technical, this course is not just about the technology; we will spend time each week discussing interaction design and what it means to incorporate electronic projects into our lives. Core interaction design concepts include user observation, affordances, and converting physical action into digital information.
 
-Although programming is required to successfully complete projects and assignments, we will NOT be spending any time on introductory programming concepts. You should already be comfortable with general programming concepts (variables, loops, data types, etc.).
+*Although programming is required to successfully complete projects and assignments, we will NOT be spending any time on introductory programming concepts. You should already be comfortable with general programming concepts (variables, loops, data types, etc.).*
 
 <!-- ## Class Expectations
 + Arrive on time.
@@ -27,7 +27,7 @@ Although programming is required to successfully complete projects and assignmen
 
 
 ## Attendance
-Attendance is mandatory. Students are allowed three absences* after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence. 
+Attendance is mandatory. Students are allowed **three absences*** after which their final grade will be reduced by 10% for each additional absence. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence. 
 
 As unavoidable circumstances might occur, 3 absences are allowed during the semester. Every additional class missed causes a 10% reduction in a student’s final grade. Extreme lateness counts as 1/3 of an absence. You are responsible for all material and announcements made in class. Do not expect me to catch you up for classes you’ve missed -- that’s your responsibility. Critique days are required; an absence that day will impact your grade for that project.
 
@@ -36,15 +36,15 @@ As unavoidable circumstances might occur, 3 absences are allowed during the seme
 
 
 ## Participation
-This is a participatory course. You are expected to participate in discussions and give feedback to other students both in class and participate with their projects. Be cognizant of how you interact in class discussions. If you find yourself commenting more frequently than most other people in the class, step back and give others a chance to contribute (even if you have something to say). If you tend to hesitate to join discussions, challenge yourself to jump in. Additionally, I encourage you to utilize the blogs as a way to connect with your classmates and share your ideas.
+This is an extremely participatory course. You are expected to participate in discussions and give feedback to other students both in class and participate with their projects. Be cognizant of how you interact in class discussions. If you find yourself commenting more frequently than most other people in the class, step back and give others a chance to contribute (even if you have something to say). If you tend to hesitate to join discussions, challenge yourself to jump in. Additionally, I encourage you to utilize the blogs as a way to connect with your classmates and share your ideas.
 
 I take critiques very seriously. *Even if your project is not fully completed, it is required that you come to class to give feedback on your classmate's projects*. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
-**20% of your final semester grade is based on participation**. If you consistently come to class and are prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
+**20% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
 
 
 ## Grading
-Students will be assessed on conceptual ideas, technical skills, critical thinking, documentation, participation and attendance. Projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, experimentation and use of creative engineering solutions. Work must be presented on the date it is due (even if something isn't working!). 
+Students will be assessed on conceptual ideas, technical skills, critical thinking, documentation, participation and attendance. Projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, experimentation and use of creative engineering solutions.*Work must be presented on the date it is due (even if something isn't working!).*
 
 If you turn in all your work on time (and if it is satisfactorily completed), and if you attend class and participate, you are ensured a C. A’s and B’s are reserved for students who excel beyond average and competent work. Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
 
@@ -58,47 +58,45 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 | Labs - 10 total			| 250 pts |
 | Quizzes - 2 total			| 150 pts |
 | Participation             | 200 pts |
-{:.mbtablestyle}
-
-Labs are graded based on their completeness (meets the assignment’s requirements), timeliness (turned in on time), and technical proficiency (works correctly). Projects are graded based on their concept, creativity/design, and technical sophistication. 
+{:.mbtablestyle} 
 
 <br>
 
 *Letter grades will be assigned based on the following breakdown:*
 
-|---------------|--------:|
-| 94-100 				| A  |
-| 90-93 				| A- |
-| 87-89					| B+ |
-| 84-86					| B  |
-| 80-83					| B- |
-| 77-79					| C+ |
-| 74-76					| C  |
-| 70-73					| C- |
-| 60-69					| D  |
-| 0-50					| F  |
-{:.mbtablestyle}
+A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 94 - 100<br>
+A- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 90 to 93<br>
+B+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 87 to 89<br>
+B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 84 to 86<br>
+B- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80 to 83<br>
+C+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 77 to 79<br>
+C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 74 to 76<br>
+C- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70 to 73<br>
+D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60 to 69<br>
+F &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 to 50<br>
 
-*You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
+***You are required to earn a C letter grade or higher in order to continue course work in the TAM program.***
 
 
 ## Labs & Quizzes
-There is a lab activity for nearly every week during the first half of the semester. They are short, simple assignments meant to help you understand the principles discussed in class and become familiar with physical computing technologies. 
+There is a lab activity for nearly every week during the first half of the semester. They are short, simple assignments meant to help you understand the principles discussed in class and become familiar with physical computing technologies. Labs will be graded based on their completeness (turned in on time and meets the assignment’s requirements), technical proficiency (works correctly), documentation (posted to your online journal), and creative application (can you apply the techincal principles in a creative way).
 
 You will take two quizzes over the course of the semester. Both are open-note assessments.
 
 ## Projects
 You will complete two detailed production assignments over the course of the term. You are expected to push your abilities to produce something that utilizes what you have learned in the class and that is useful in some manner to yourself or the world.
 
+Projects are graded based on their concept, creativity/design, and technical sophistication.
+
 
 ## Readings & Assignments
 Weekly assignments will include relevant readings, videos, and observation exercises. You are expected to document all work to your blog. This includes your successes, failures, reading responses, project ideas and inspirations.
 
-*Readings are mandatory!* Come to class prepared to discuss any assigned reading materials; you may occasionally be given in-class pop-quizzes about any assigned readings (which would contribute toward your overall participation grade). 
+***Readings are mandatory!*** Come to class prepared to discuss any assigned reading materials. You may occasionally be given in-class pop-quizzes about any assigned readings (which would contribute toward your overall participation grade). 
 
 
 ## Blog & Documentation
-You are expected to keep an online journal of your progress in this course. At a minimum, I expect you to summarize any insights you have in each week's work, to discuss any readings, and to thoroughly document your production projects and technical research. I encourage you to read and comment on each other's posts.
+You are expected to keep an [online journal](/object-spring-17/journal) of your progress in this course. At a minimum, you are expected to summarize any insights you have in each week's work, to discuss any readings, and to thoroughly document your labs, projects and technical research. I encourage you to read and comment on each other's posts.
 
 
 ## Materials
@@ -109,9 +107,7 @@ Any additional parts or materials required for projects will be your responsibil
 
 
 ## BTU Lab
-This lab is your maker space!
-
-In the second or third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members. 
+This lab is your maker space! In the third week of the semester we will run a lab orientation session during class. After completing this orientation, all enrolled Object students will officially become lab members. 
 
 For more about the lab visit [BTUlab.com](http://www.btulab.com/)
 

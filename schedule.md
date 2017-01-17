@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-feature-img: "img/circuit-texture.jpg"
+feature-img: "img/bg1.jpg"
 ---
 
 
@@ -15,7 +15,7 @@ Assignments are due on the day that they are listed.
 <br> -->
 
 ### Week 1
-**Tuesday, January 17th** <br> Introductions, Fantasy Device, Expectations, Blogs, Intro Survey
+**Tuesday, January 17th** <br> Introductions, Fantasy Device, Expectations, [Online Journal](/object-spring-17/journal), [Intro Survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSd-J9qlRalPSIrY7S76r8qyAFv6p1syXjrGY9KlyHye44ahLw/viewform)
 
 *For Next Class:*
 
@@ -31,7 +31,8 @@ Assignments are due on the day that they are listed.
 
 + Complete [Lab 1](/object-spring-17/lab-1)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
-+ Read [There Are No Electrons]()
+
+<!-- + Read [There Are No Electrons]() -->
 
 <!-- + Watch [Using a multimeter]() and [Switches]()
 + Read [Kate's chapter on Switches]() -->

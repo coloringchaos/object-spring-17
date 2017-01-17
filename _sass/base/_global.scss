@@ -48,6 +48,7 @@ h3 {
 h4 {
   font-size: 1.15em;
   padding-top:1.5em;
+  text-decoration:underline;
 }
 blockquote {
     border-left: 2px solid;
@@ -103,8 +104,9 @@ li > ul, li > ol {
 }
 ol, ul {
   padding-left:3em;
-
-
+}
+li{
+  margin-bottom:.3em;
 }
 hr {
   border: 0;

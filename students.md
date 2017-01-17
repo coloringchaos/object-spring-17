@@ -2,7 +2,7 @@
 layout: page
 title: Student Blogs
 permalink: /students/
-feature-img: "img/resistors.png"
+feature-img: "img/bg1.jpg"
 ---
 
 [Alejandro Alvarez]()<br>

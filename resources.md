@@ -2,5 +2,5 @@
 layout: page
 title: Resources
 permalink: /resources/
-feature-img: "img/switches.jpg"
+feature-img: "img/bg1.jpg"
 ---
