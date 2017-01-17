@@ -15,11 +15,12 @@ Assignments are due on the day that they are listed.
 <br> -->
 
 ### Week 1
-**Tuesday, January 17th** <br> Introductions, Fantasy Device, Expectations, [Online Journal](/object-spring-17/journal), [Intro Survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSd-J9qlRalPSIrY7S76r8qyAFv6p1syXjrGY9KlyHye44ahLw/viewform)
+**Tuesday, January 17th** <br> Introductions, Fantasy Device, Expectations, [Online Journal](/object-spring-17/journal)
 
 *For Next Class:*
 
 + Set up your [Online Object Journal](/object-spring-17/journal/) and email me the link
++ Complete the [Intro Survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSd-J9qlRalPSIrY7S76r8qyAFv6p1syXjrGY9KlyHye44ahLw/viewform)
 + Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 + Read [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
