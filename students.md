@@ -8,16 +8,16 @@ feature-img: "img/bg1.jpg"
 [Alejandro Alvarez]()<br>
 [Serena Buxton]()<br>
 [Austin Curtis]()<br>
-[Brianna Dascher]()<br>
+[Bri Dascher]()<br>
 [Claudia Escue]()<br>
-[Gabirel Ezcurra Taiganides]()<br>
+[Gabe Ezcurra Taiganides]()<br>
 [Cassandra Goodby]()<br>
-[Dieter Hudobnik]()<br>
-[Aastha Khatter]()<br>
+[Marcus Hudobnik]()<br>
+[Ash Khatter]()<br>
 [Eric Laufer]()<br>
 [Wyatt Megla]()<br>
 [Melissa Moonie]()<br>
-[Jacquelyn Pratt]()<br>
+[Jackie Pratt]()<br>
 [Olivia Pulick]()<br>
 [Kaylin Shioshita]()<br>
 [Jess Susalski]()<br>
