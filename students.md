@@ -5,21 +5,21 @@ permalink: /students/
 feature-img: "img/bg1.jpg"
 ---
 
-[Alejandro Alvarez]()<br>
+Alejandro Alvarez
 [Serena Buxton](https://serenabux.wordpress.com/)<br>
-[Austin Curtis]()<br>
-[Bri Dascher]()<br>
-[Claudia Escue]()<br>
-[Gabe Ezcurra Taiganides]()<br>
-[Cassandra Goodby]()<br>
+[Austin Curtis](https://austincurtisblog.wordpress.com/category/object/)<br>
+[Bri Dascher](https://bridascher.wordpress.com/category/object/)<br>
+Claudia Escue
+Gabe Ezcurra Taiganides
+Cassandra Goodby
 [Markus Hudobnik](https://rnarkus.wordpress.com/)<br>
 [Ash Khatter](https://ashkhatterprojects.wordpress.com)<br>
-[Eric Laufer]()<br>
+Eric Laufer
 [Wyatt Megla](https://meglawordpress.wordpress.com/category/object/)<br>
-[Melissa Moonie]()<br>
-[Jackie Pratt]()<br>
-[Olivia Pulick]()<br>
-[Kaylin Shioshita]()<br>
-[Jess Susalski]()<br>
+[Melissa Moonie](https://atlas2017blog.wordpress.com/)<br>
+[Jackie Pratt](https://jpratttt.wordpress.com/)<br>
+Olivia Pulick
+[Kaylin Shioshita](https://kshioshita.wordpress.com/category/object/)<br>
+Jess Susalski
 [Blain VanNice](https://breadboardthoughts.wordpress.com/)<br>
-[Emma Wu]()<br>
+Emma Wu
