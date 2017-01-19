@@ -11,7 +11,7 @@ Alejandro Alvarez
 [Bri Dascher](https://bridascher.wordpress.com/category/object/)<br>
 Claudia Escue
 Gabe Ezcurra Taiganides
-Cassandra Goodby
+[Cassandra Goodby](https://cassandraprojects.wordpress.com/)<br>
 [Markus Hudobnik](https://rnarkus.wordpress.com/)<br>
 [Ash Khatter](https://ashkhatterprojects.wordpress.com)<br>
 Eric Laufer
