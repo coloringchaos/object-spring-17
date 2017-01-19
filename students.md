@@ -22,4 +22,4 @@ Olivia Pulick
 [Kaylin Shioshita](https://kshioshita.wordpress.com/category/object/)<br>
 Jess Susalski
 [Blain VanNice](https://breadboardthoughts.wordpress.com/)<br>
-Emma Wu
+[Emma Wu](https://emmawublog.wordpress.com/)
