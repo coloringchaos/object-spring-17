@@ -19,7 +19,7 @@ Gabe Ezcurra Taiganides<br>
 [Wyatt Megla](https://meglawordpress.wordpress.com/category/object/)<br>
 [Melissa Moonie](https://atlas2017blog.wordpress.com/)<br>
 [Jackie Pratt](https://jpratttt.wordpress.com/)<br>
-Olivia Pulick<br>
+[Olivia Pulick](https://atlsformoliviapulick.wordpress.com/)<br>
 [Kaylin Shioshita](https://kshioshita.wordpress.com/category/object/)<br>
 Jess Susalski<br>
 [Blain VanNice](https://breadboardthoughts.wordpress.com/)<br>
