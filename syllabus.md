@@ -13,7 +13,7 @@ feature-img: "img/bg1.jpg"
 
 **Instructor:**&nbsp; Arielle Hein<br>
 **Email:**&nbsp; arielle.hein@colorado.edu<br>
-**Office:**&nbsp; ATLS 231C
+**Office:**&nbsp; ATLS 231C<br>
 **Office Hours:**&nbsp; Mondays 3-4:30 (walk-in) or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)
 
 
