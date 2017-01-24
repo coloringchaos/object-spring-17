@@ -13,8 +13,8 @@ feature-img: "img/bg1.jpg"
 
 **Instructor:**&nbsp; Arielle Hein<br>
 **Email:**&nbsp; arielle.hein@colorado.edu<br>
-**Office:**&nbsp; ATLS 231C<br>
-**Office Hours:**&nbsp; Mondays 3-4:30 (walk-in) or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)
+**Office Hours:**&nbsp; Tuesdays 1-2:30 (walk-in) or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)<br>
+**Office:**&nbsp; ATLS 231C
 
 
 This course is an introduction to **physical computing**. Physical computing, in the broadest sense, means building interactive physical systems that can sense and respond to the analog world. This class is an exploration of computing that starts from the perspective that humans are fundamentally physical beings. In this course, we take the human body as a given, and work to design projects that can interact with humans and the physical world. You will learn how a computer converts the changes in energy given off by our bodies (in the form of sound, light, motion, touch, and other forms) into changing electronic signals that it can read and interpret. We will learn about ways to integrate sensors, motors, and simple electronics into interactive objects.
@@ -50,7 +50,7 @@ This is an extremely participatory course. You are expected to participate in di
 
 I take critiques very seriously. *Even if your project is not fully completed, it is required that you come to class to give feedback on your classmate's projects*. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
-**20% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
+**15% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. 
 
 
 ## Grading
@@ -65,9 +65,9 @@ Major projects turned in late will be graded 10% lower for each day that they ar
 |---------------|--------:|
 | Project 1 				| 150 pts |
 | Project 2 				| 250 pts |
-| Labs - 10 total			| 250 pts |
+| Labs - 10 total			| 300 pts |
 | Quizzes - 2 total			| 150 pts |
-| Participation             | 200 pts |
+| Participation             | 150 pts |
 {:.mbtablestyle} 
 
 <br>
