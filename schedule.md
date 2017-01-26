@@ -52,7 +52,9 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, January 26th** <br> Series and Parallel Circuits, Power Supplies, AC/DC Power, Ohm's Law
+**Thursday, January 26th** <br> Series and Parallel Circuits, Ohm's Law, Soldering 
+
+<!-- Enclosures, Soft Circuits -->
 
 *For Next Class:*
 
@@ -65,7 +67,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 3
-**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion, Enclosures, Soft Circuits <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
+**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion, Power Supplies, AC/DC Power <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
 
 *For Next Class:*
 
