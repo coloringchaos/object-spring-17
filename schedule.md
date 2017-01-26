@@ -48,7 +48,7 @@ Assignments are due on the day that they are listed.
 
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
 + Read [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
-+ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings*
++ Begin reading *There are No Electrons: Electronics for Earthlings* (finish by 1/31)
 
 <br>
 
@@ -59,7 +59,8 @@ Assignments are due on the day that they are listed.
 + Complete [Lab 2](/object-spring-17/lab-2)
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
 + Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
-+ Post a short blog response to the reading and video, also be prepared to discuss them in class
+<!-- + Post a short blog response to the reading and video, also be prepared to discuss them in class -->
++ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings*
 
 <hr>
 
