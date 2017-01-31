@@ -67,18 +67,18 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 3
-**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion, Power Supplies, AC/DC Power <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
+**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion,  <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
 
 *For Next Class:*
 
-+ Complete [Lab 3]()
++ Complete [Lab 3](/object-spring-17/lab-3)
 + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 + Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
-+ Answer the questions at the end of the Crawford reading and post any other reactions to your blog
+<!-- + Answer the questions at the end of the Crawford reading and post any other reactions to your blog -->
 
 <br>
 
-**Thursday, February 2nd** <br> Documentation Workshop, Feedback Loops, Introduce Project 1<br> **Due:** <span class="highlight">[Lab 3]()</span>
+**Thursday, February 2nd** <br> Documentation Workshop, Blog Critique, Interactive Object Concepts, Power Supplies, AC/DC Power, Introduce Project 1<br> **Due:** <span class="highlight">[Lab 3](/object-spring-17/lab-3)</span>
 
 *For Next Class:*
 
