@@ -67,7 +67,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 3
-**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion,  <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
+**Tuesday, January 31st** <br> BTU Lab Orientation, Design Discussion <br> **Due:** <span class="highlight">[Lab 2](/object-spring-17/lab-2)</span>
 
 *For Next Class:*
 
@@ -78,7 +78,9 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 2nd** <br> Documentation Workshop, Blog Critique, Interactive Object Concepts, Power Supplies, AC/DC Power, Introduce Project 1<br> **Due:** <span class="highlight">[Lab 3](/object-spring-17/lab-3)</span>
+**Thursday, February 2nd** <br> Documentation, Blog Critique, Interactive Object Concepts, Introduce Project 1<br> **Due:** <span class="highlight">[Lab 3](/object-spring-17/lab-3)</span>
+
+<!-- Power Supplies, AC/DC Power, -->
 
 *For Next Class:*
 
