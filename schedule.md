@@ -78,7 +78,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 2nd** <br> Documentation, Blog Critique, Interactive Object Concepts, Introduce Project 1<br> **Due:** <span class="highlight">[Lab 3](/object-spring-17/lab-3)</span>
+**Thursday, February 2nd** <br> Photographing Hardware, Blog Critique, Interactive Object Concepts, Introduce [Project 1](/object-spring-17/lab-3)<br> **Due:** <span class="highlight">[Lab 3](/object-spring-17/lab-3)</span>
 
 <!-- Power Supplies, AC/DC Power, -->
 
@@ -195,7 +195,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 9
-**Tuesday, March 14th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/project-1/)</span>
+**Tuesday, March 14th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/object-spring-17/project-1)</span>
 
 <br>
 
