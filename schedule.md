@@ -95,7 +95,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 4]()
++ Complete [Lab 4](/object-spring-17/lab-4)
 + Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 + Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 + Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
@@ -103,7 +103,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 9th** <br> Analog Input, Sensors, Datasheets, Memory & Variables <br> **Due:** <span class="highlight">[Lab 4]()</span>
+**Thursday, February 9th** <br> Analog Input, Sensors, Datasheets, Memory & Variables <br> **Due:** <span class="highlight">[Lab 4](/object-spring-17/lab-4)</span>
 
 *For Next Class:*
 
