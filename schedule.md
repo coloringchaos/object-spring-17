@@ -103,11 +103,11 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 9th** <br> Analog Input, Sensors, Datasheets, Memory & Variables <br> **Due:** <span class="highlight">[Lab 4](/object-spring-17/lab-4)</span>
+**Thursday, February 9th** <br> Analog Input, Sensors, Variable Resistors, Serial Monitor <br> **Due:** <span class="highlight">[Lab 4](/object-spring-17/lab-4)</span>
 
 *For Next Class:*
 
-+ Complete [Lab 5]()
++ Complete [Lab 5](/object-spring-17/lab-5)
 + Watch [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
 + Read [Production Bits](https://coloringchaos.github.io/object-fall-16/assets/gibb-production-bits.pdf)
 + Read [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
@@ -120,46 +120,42 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 5
-**Tuesday, February 14th** <br> Open Source Hardware, Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5]()</span>
+**Tuesday, February 14th** <br> Open Source Hardware, Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
 
-<!-- *For Next Class:*
+*For Next Class:*
 
-+ Submit [Project 1 Proposal]() -->
++ Prepare for Quiz #1
++ Submit Project 1 Proposal
 
 <br>
 
-**Thursday, February 16th** <br> SPARKFUN VISIT
+**Thursday, February 16th** <br> **In Class:** <span class="highlight">[Quiz #1]()</span><br> **Due:** <span class="highlight">[Project 1 Proposal]()</span> *- You will receive a thumbs up or down on your proposal by Sunday 2.19*
 
-<!-- *For Next Class:*
-
-+ Prepare for Quiz #1 -->
-
-<br> 
-**Due end-of-day Friday 2.17** <span class="highlight">[Project 1 Proposal]()</span><br>*You will receive a thumbs up or down on your proposal by Sunday 2.19*
 
 <hr>
 
 ### Week 6
-**Tuesday, February 21st** <br> **In Class:** <span class="highlight">[Quiz #1]()</span>
+**Tuesday, February 21st** <br> SPARKFUN VISIT
+
+
+*For Next Class:*
+
++ Get all of your parts for Project 1
+
+
+<br>
+
+**Thursday, February 23rd** <br> DC Motors, Controlling High-Current Loads
 
 *For Next Class:*
 
 + Complete [Lab 6]()
 + Watch [Meet the Motors]()
 
-<br>
-
-**Thursday, February 23rd** <br> DC Motors, Controlling High-Current Loads<br> **Due:** <span class="highlight">[Lab 6]()</span>
-
-*For Next Class:*
-
-+ Work on Project 1
-
-
 <hr>
 
 ### Week 7
-**Tuesday, February 28th** <br> More Motors, Relays, Transistors, Project Check-in
+**Tuesday, February 28th** <br> More Motors, Relays, Transistors, Project Check-in <br> **Due:** <span class="highlight">[Lab 6]()</span>
 
 *For Next Class:*
 
