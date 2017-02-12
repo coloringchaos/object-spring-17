@@ -108,44 +108,44 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Complete [Lab 5](/object-spring-17/lab-5)
-+ Watch [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
-+ Read [Production Bits](https://coloringchaos.github.io/object-fall-16/assets/gibb-production-bits.pdf)
-+ Read [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
-+ Read [Open Source Lab Froward](https://coloringchaos.github.io/object-fall-16/assets/open-source-lab.pdf)
-
-<!-- + Read [Analog Output]()
-+ Read [PWM]() -->
++ Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
 
 
 <hr>
 
 ### Week 5
-**Tuesday, February 14th** <br> Open Source Hardware, Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
+**Tuesday, February 14th** <br> Building Enclosures, Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
 
 *For Next Class:*
 
-+ Prepare for Quiz #1
 + Submit Project 1 Proposal
 
 <br>
 
-**Thursday, February 16th** <br> **In Class:** <span class="highlight">[Quiz #1]()</span><br> **Due:** <span class="highlight">[Project 1 Proposal]()</span> *- You will receive a thumbs up or down on your proposal by Sunday 2.19*
+**Thursday, February 16th** <br> Review, Project Discussion <br> **Due:** <span class="highlight">[Project 1 Proposal]()</span> *- You will receive a thumbs up or down on your proposal by Sunday 2.19*
 
+*For Next Class:*
+
++ Prepare for Quiz #1
 
 <hr>
 
 ### Week 6
-**Tuesday, February 21st** <br> SPARKFUN VISIT
+**Tuesday, February 21st** <br> **In Class:** <span class="highlight">[Quiz #1]()</span>
+<!-- <br> SPARKFUN VISIT -->
 
 
 *For Next Class:*
 
 + Get all of your parts for Project 1
-
++ Watch [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
++ Read [Production Bits](https://coloringchaos.github.io/object-fall-16/assets/gibb-production-bits.pdf)
++ Read [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
++ Read [Open Source Lab Froward](https://coloringchaos.github.io/object-fall-16/assets/open-source-lab.pdf)
 
 <br>
 
-**Thursday, February 23rd** <br> DC Motors, Controlling High-Current Loads
+**Thursday, February 23rd** <br> Open Source Hardware, DC Motors, Controlling High-Current Loads
 
 *For Next Class:*
 
