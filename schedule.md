@@ -123,7 +123,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 16th** <br> Review, Project Discussion <br> **Due:** <span class="highlight">[Project 1 Proposal]()</span> *- You will receive a thumbs up or down on your proposal by Sunday 2.19*
+**Thursday, February 16th** <br> Review, Project Discussion <br> **Due:** <span class="highlight">[Project 1 Proposal](/object-spring-17/project-1)</span> *- You will receive a thumbs up or down on your proposal by Sunday 2.19*
 
 *For Next Class:*
 
