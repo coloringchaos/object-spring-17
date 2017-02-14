@@ -119,6 +119,7 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Submit Project 1 Proposal
++ Work on [Lab 6](/object-spring-17/lab-6)
 
 <br>
 
@@ -138,6 +139,7 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Get all of your parts for Project 1
++ Complete [Lab 6](/object-spring-17/lab-6)
 + Watch [What is Open Source Hardware](https://www.youtube.com/watch?v=9xGRaPrcvVg)
 + Read [Production Bits](https://coloringchaos.github.io/object-fall-16/assets/gibb-production-bits.pdf)
 + Read [Open Source Hardware Checklist](http://www.oshwa.org/wp-content/uploads/2014/08/Open-Source-Hardware-Checklist.pdf)
@@ -145,17 +147,16 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 23rd** <br> Open Source Hardware, DC Motors, Controlling High-Current Loads
+**Thursday, February 23rd** <br> Open Source Hardware, DC Motors, Controlling High-Current Loads <br> **Due:** <span class="highlight">[Lab 6](/object-spring-17/lab-6)</span>
 
 *For Next Class:*
 
-+ Complete [Lab 6]()
 + Watch [Meet the Motors]()
 
 <hr>
 
 ### Week 7
-**Tuesday, February 28th** <br> More Motors, Relays, Transistors, Project Check-in <br> **Due:** <span class="highlight">[Lab 6]()</span>
+**Tuesday, February 28th** <br> More Motors, Relays, Transistors, Project Check-in 
 
 *For Next Class:*
 
