@@ -114,7 +114,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 5
-**Tuesday, February 14th** <br> Building Enclosures, Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
+**Tuesday, February 14th** <br> Analog Output, PWM vs. Frequency Modulation <br> **Due:** <span class="highlight">[Lab 5](/object-spring-17/lab-5)</span>
 
 *For Next Class:*
 
