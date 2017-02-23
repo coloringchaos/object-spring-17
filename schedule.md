@@ -147,7 +147,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, February 23rd** <br> Open Source Hardware, DC Motors, Controlling High-Current Loads <br> **Due:** <span class="highlight">[Lab 6](/object-spring-17/lab-6)</span>
+**Thursday, February 23rd** <br> Open Source Hardware with Alicia Seidle, Project Work Time<br> **Due:** <span class="highlight">[Lab 6](/object-spring-17/lab-6)</span>
 
 *For Next Class:*
 
@@ -156,7 +156,9 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 7
-**Tuesday, February 28th** <br> More Motors, Relays, Transistors, Project Check-in 
+**Tuesday, February 28th** <br> DC Motors, Controlling High-Current Loads, Relays, Transistors
+
+<!-- More Motors, , Project Check-in  -->
 
 *For Next Class:*
 
@@ -164,7 +166,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 2nd** <br> Playtesting, Fritzing, Schematics, Github  <br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
+**Thursday, March 2nd** <br> Playtesting,   <br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
 
 *For Next Class:*
 
@@ -174,7 +176,9 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 8
-**Tuesday, March 7th** <br> Circuit Design, PCBs, EagleCAD <br> **Due:** <span class="highlight">[Lab 7]()</span>
+**Tuesday, March 7th** <br> Fritzing, Github, Circuit Design <br> **Due:** <span class="highlight">[Lab 7]()</span>
+
+<!-- , PCBs, EagleCAD -->
 
 
 *For Next Class:*
