@@ -151,7 +151,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Watch [Meet the Motors]()
++ Watch [Meet the Motors](https://vimeo.com/84274150)
 
 <hr>
 
