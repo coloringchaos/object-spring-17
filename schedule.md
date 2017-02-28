@@ -156,7 +156,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 7
-**Tuesday, February 28th** <br> DC Motors, Controlling High-Current Loads, Relays, Transistors
+**Tuesday, February 28th** <br> Project 1 Work Day
 
 <!-- More Motors, , Project Check-in  -->
 
@@ -166,17 +166,20 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 2nd** <br> Playtesting,   <br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
+**Thursday, March 2nd** <br> Playtesting, DC Motors <br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
 
 *For Next Class:*
 
-+ Complete [Lab 7]()
++ Work on Project 1
+
+<!-- + Complete [Lab 7]() -->
 
 
 <hr>
 
 ### Week 8
-**Tuesday, March 7th** <br> Fritzing, Github, Circuit Design <br> **Due:** <span class="highlight">[Lab 7]()</span>
+**Tuesday, March 7th** <br> More motors, Relays, Transistors, Controlling High-Current Loads
+<!-- <br> **Due:** <span class="highlight">[Lab 7]()</span> -->
 
 <!-- , PCBs, EagleCAD -->
 
@@ -184,10 +187,11 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Work on Project 1
++ Complete [Lab 7]()
 
 <br>
 
-**Thursday, March 9th** <br> Work Day
+**Thursday, March 9th** <br> Fritzing, Github, Circuit Design, Work Time <br>**Due:** <span class="highlight">[Lab 7]()</span>
 
 *For Next Class:*
 
@@ -204,7 +208,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 8]()
+<!-- + Complete [Lab 7]() -->
 + Serial Communication Readings
 
 <br> 
@@ -213,16 +217,17 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 10
-**Tuesday, March 21st** <br> Serial Communication, Discuss Final Project<br>**Due:** <span class="highlight">[Lab 8]()</span>
+**Tuesday, March 21st** <br> Serial Communication, Discuss Final Project
+
 
 *For Next Class:*
 
-+ Complete [Lab 9]()
 + More serial readings...
++ Complete [Lab 8]()
 
 <br>
 
-**Thursday, March 23rd** <br> Final Project Brainstorming Workshop<br>**Due:** <span class="highlight">[Lab 9]()</span>
+**Thursday, March 23rd** <br> Final Project Brainstorming Workshop<br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <hr>
 
@@ -242,12 +247,12 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 10]()
++ Complete [Lab 9]()
 
 <hr>
 
 ### Week 13
-**Tuesday, April 11th** <br>Wireless<br>**Due:** <span class="highlight">[Lab 10]()</span>
+**Tuesday, April 11th** <br>Wireless<br>**Due:** <span class="highlight">[Lab 9]()</span>
 
 <br>
 
