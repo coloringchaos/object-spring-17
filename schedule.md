@@ -166,7 +166,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 2nd** <br> Playtesting, DC Motors <br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
+**Thursday, March 2nd** <br> playtesting<br> **In Class:** <span class="highlight">[Project 1 Playtesting]()</span>
 
 *For Next Class:*
 
@@ -178,7 +178,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 8
-**Tuesday, March 7th** <br> More motors, Relays, Transistors, Controlling High-Current Loads
+**Tuesday, March 7th** <br> Motors, Relays, Transistors, Controlling High-Current Loads
 <!-- <br> **Due:** <span class="highlight">[Lab 7]()</span> -->
 
 <!-- , PCBs, EagleCAD -->
