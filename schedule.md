@@ -178,20 +178,17 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 8
-**Tuesday, March 7th** <br> Motors, Relays, Transistors, Controlling High-Current Loads
-<!-- <br> **Due:** <span class="highlight">[Lab 7]()</span> -->
-
-<!-- , PCBs, EagleCAD -->
-
+**Tuesday, March 7th** <br> Motors, H-Bridge, Fritzing, Schematics, Circuit Design, Soldering & Protoboards
 
 *For Next Class:*
 
 + Work on Project 1
-+ Complete [Lab 7]()
+
+<!-- + Complete [Lab 7]()  -->
 
 <br>
 
-**Thursday, March 9th** <br> Fritzing, Github, Circuit Design, Work Time <br>**Due:** <span class="highlight">[Lab 7]()</span>
+**Thursday, March 9th** <br> Relays, Transistors, Controlling High-Current Loads 
 
 *For Next Class:*
 
@@ -204,7 +201,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 16th** <br> Introduction to Serial Communication with p5.js
+**Thursday, March 16th** <br> More Motors
 
 *For Next Class:*
 
@@ -217,17 +214,18 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 10
-**Tuesday, March 21st** <br> Serial Communication, Discuss Final Project
+**Tuesday, March 21st** <br> Serial Communication, Discuss Final Project <br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
 
 
 *For Next Class:*
 
-+ More serial readings...
-+ Complete [Lab 8]()
++ Serial Communication Readings
+
+<!-- + Complete [Lab 8]() -->
 
 <br>
 
-**Thursday, March 23rd** <br> Final Project Brainstorming Workshop<br>**Due:** <span class="highlight">[Lab 8]()</span>
+**Thursday, March 23rd** <br> Final Project Brainstorming Workshop
 
 <hr>
 
@@ -247,12 +245,12 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 9]()
++ Complete [Lab 8]()
 
 <hr>
 
 ### Week 13
-**Tuesday, April 11th** <br>Wireless<br>**Due:** <span class="highlight">[Lab 9]()</span>
+**Tuesday, April 11th** <br>Wireless<br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <br>
 
@@ -261,7 +259,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 14
-**Tuesday, April 18th** <br> Wireless, Individual Blog Reviews
+**Tuesday, April 18th** <br> Wireless, Individual Blog Reviews <br>**Due:** <span class="highlight">[Lab 9]()</span>
 
 <br>
 
@@ -288,3 +286,9 @@ Assignments are due on the day that they are listed.
 <br>
 
 **Thursday, May 4th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/project-1/)</span>
+
+<hr>
+
+### Finals Week
+
+**Due:** <span class="highlight">[Lab 10]()</span>
