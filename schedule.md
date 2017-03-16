@@ -212,7 +212,7 @@ Assignments are due on the day that they are listed.
 
 *For Next Class:*
 
-+ Complete [Lab 7]()
++ Complete [Lab 7](/object-spring-17/lab-7)
 
 <br>
 
