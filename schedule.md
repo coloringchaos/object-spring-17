@@ -85,6 +85,7 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Read [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
++ Read [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
 + Read Chapters 1 and 2 in [Speculative Everything](http://object.ariellehein.com/readings/SpeculativeEverything.pdf)
 + Read Chapter 9 in [Make it So](http://object.ariellehein.com/readings/MakeItSo.pdf)
 
