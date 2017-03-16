@@ -181,9 +181,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 9th** <br> Work Day
-
-
+**Thursday, March 9th** <br> Project 1 Work Day
 
 *For Next Class:*
 
@@ -204,12 +202,12 @@ Assignments are due on the day that they are listed.
 
 
 <br> 
-**Due end-of-day Friday 3.17** <span class="highlight">[Project 1 Documentation]()</span>
+**Due end-of-day Friday 3.17** <span class="highlight">[Project 1 Documentation](/object-spring-17/project-1)</span>
 
 <hr>
 
 ### Week 10
-**Tuesday, March 21st** <br> Final Project Discussion, Actuators, Transistors
+**Tuesday, March 21st** <br> Final Project Discussion, Actuators, Transistors, Relays
 
 
 *For Next Class:*
@@ -230,11 +228,11 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 12
-**Tuesday, April 4th** <br> Working with Data <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
+**Tuesday, April 4th** <br> Introduction to Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
 
 <br>
 
-**Thursday, April 6th** <br> Guest Lecture, More Data
+**Thursday, April 6th** <br> Serial Communication
 
 *For Next Class:*
 
@@ -243,16 +241,16 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 13
-**Tuesday, April 11th** <br>Wireless<br>**Due:** <span class="highlight">[Lab 8]()</span>
+**Tuesday, April 11th** <br>More Serial Communication, Wireless<br>**Due:** <span class="highlight">[Lab 8]()</span>
 
 <br>
 
-**Thursday, April 13th** <br> **In Class:** <span class="highlight">[Quiz #2]()</span>
+**Thursday, April 13th** <br> Wireless, Individual Blog Reviews <br>**Due:** <span class="highlight">[Lab 9]()</span> 
 
 <hr>
 
 ### Week 14
-**Tuesday, April 18th** <br> Wireless, Individual Blog Reviews <br>**Due:** <span class="highlight">[Lab 9]()</span>
+**Tuesday, April 18th** <br> **In Class:** <span class="highlight">[Quiz #2]()</span>
 
 <br>
 
