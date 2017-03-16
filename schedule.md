@@ -158,8 +158,6 @@ Assignments are due on the day that they are listed.
 ### Week 7
 **Tuesday, February 28th** <br> Project 1 Work Day
 
-<!-- More Motors, , Project Check-in  -->
-
 *For Next Class:*
 
 + Prepare Project 1 for playtesting
@@ -172,23 +170,20 @@ Assignments are due on the day that they are listed.
 
 + Work on Project 1
 
-<!-- + Complete [Lab 7]() -->
-
-
 <hr>
 
 ### Week 8
-**Tuesday, March 7th** <br> Motors, H-Bridge, Fritzing, Schematics, Circuit Design, Soldering & Protoboards
+**Tuesday, March 7th** <br> Fritzing, Schematics, Circuit Design, Soldering & Protoboards
 
 *For Next Class:*
 
 + Work on Project 1
 
-<!-- + Complete [Lab 7]()  -->
-
 <br>
 
-**Thursday, March 9th** <br> Relays, Transistors, Controlling High-Current Loads 
+**Thursday, March 9th** <br> Work Day
+
+
 
 *For Next Class:*
 
@@ -201,12 +196,12 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 16th** <br> More Motors
+**Thursday, March 16th** <br> Documentation Day
 
 *For Next Class:*
 
-<!-- + Complete [Lab 7]() -->
-+ Serial Communication Readings
++ Watch [Meet the Motors](https://vimeo.com/84274150)
+
 
 <br> 
 **Due end-of-day Friday 3.17** <span class="highlight">[Project 1 Documentation]()</span>
@@ -214,18 +209,16 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 10
-**Tuesday, March 21st** <br> Serial Communication, Discuss Final Project <br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
+**Tuesday, March 21st** <br> Final Project Discussion, Actuators, Transistors
 
 
 *For Next Class:*
 
-+ Serial Communication Readings
-
-<!-- + Complete [Lab 8]() -->
++ Complete [Lab 7]()
 
 <br>
 
-**Thursday, March 23rd** <br> Final Project Brainstorming Workshop
+**Thursday, March 23rd** <br> p5.js, More Motors, In-class actuator activity<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
 
 <hr>
 
