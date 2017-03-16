@@ -199,6 +199,8 @@ Assignments are due on the day that they are listed.
 *For Next Class:*
 
 + Watch [Meet the Motors](https://vimeo.com/84274150)
++ Read [Tom Igoe's Notes on Steppers](http://www.tigoe.net/pcomp/code/circuits/motors/stepper-motors/)
++ Read [DC Motors: The Basics](https://itp.nyu.edu/physcomp/lessons/dc-motors/dc-motors-the-basics/)
 
 
 <br> 
