@@ -231,11 +231,11 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 12
-**Tuesday, April 4th** <br> Introduction to Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
+**Tuesday, April 4th** <br> Introduction to Serial Communication with p5.js, Project 2 Discussion
 
 <br>
 
-**Thursday, April 6th** <br> Serial Communication
+**Thursday, April 6th** <br> Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
 
 *For Next Class:*
 
