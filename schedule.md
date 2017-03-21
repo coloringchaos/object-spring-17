@@ -210,7 +210,7 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 10
-**Tuesday, March 21st** <br> Final Project Discussion, Actuators, Transistors, Relays
+**Tuesday, March 21st** <br> Final Project Discussion, Actuators, DC Motors, Steppers, H-Bridge
 
 
 *For Next Class:*
@@ -219,7 +219,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 23rd** <br> p5.js, More Motors, In-class actuator activity<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
+**Thursday, March 23rd** <br>Transistors, Relays, More Motors<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
 
 <hr>
 
