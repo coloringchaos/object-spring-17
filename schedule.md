@@ -219,7 +219,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, March 23rd** <br>Transistors, Relays, More Motors<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
+**Thursday, March 23rd** <br>More Motors<br>**Due:** <span class="highlight">[Lab 7](/object-spring-17/lab-7)</span>
 
 <hr>
 
