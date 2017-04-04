@@ -233,18 +233,24 @@ Assignments are due on the day that they are listed.
 ### Week 12
 **Tuesday, April 4th** <br> Introduction to Serial Communication with p5.js, Project 2 Discussion
 
+*For Next Class:*
+
++ Watch [Analyzer & ASCII](https://vimeo.com/97519477)
++ Watch [DIY Serial Protocol](https://vimeo.com/97520383)
++ Complete Project 2 Proposal
+
 <br>
 
-**Thursday, April 6th** <br> Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal]()</span>
+**Thursday, April 6th** <br> Serial Communication <br>**Due:** <span class="highlight">[Project 2 Proposal](/object-spring-17/p2-proposal)</span>
 
 *For Next Class:*
 
-+ Complete [Lab 8]()
++ Complete [Lab 8](/object-spring-17/lab-8)
 
 <hr>
 
 ### Week 13
-**Tuesday, April 11th** <br>More Serial Communication, Wireless<br>**Due:** <span class="highlight">[Lab 8]()</span>
+**Tuesday, April 11th** <br>More Serial Communication, Data Logging<br>**Due:** <span class="highlight">[Lab 8](/object-spring-17/lab-8)</span>
 
 <br>
 
@@ -257,7 +263,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, April 20th** <br> **In Class:** <span class="highlight">[Project 2 Playtesting]()</span>
+**Thursday, April 20th** <br> **In Class:** <span class="highlight">[Project 2 Playtesting](/object-spring-17/project-2)</span>
 
 <hr>
 
@@ -279,10 +285,14 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, May 4th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 1](/project-1/)</span>
+**Thursday, May 4th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 2](/object-spring-17/project-2)</span>
 
 <hr>
 
 ### Finals Week
 
-**Due:** <span class="highlight">[Lab 10]()</span>
+**Sunday, May 7th** <br> **Due:** <span class="highlight">[Project 2 Documentation](/object-spring-17/project-2)</span> - due by the end of the day
+
+*We will not meet in person during Finals Week*
+
+<!-- **Due:** <span class="highlight">[Lab 10]()</span> -->
