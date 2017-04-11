@@ -254,7 +254,9 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, April 13th** <br> Wireless, Individual Blog Reviews <br>**Due:** <span class="highlight">[Lab 9]()</span> 
+**Thursday, April 13th** <br> Microcontroller Survey, Wireless, Participation + Individual Blog Reviews 
+
+<!-- <br>**Due:** <span class="highlight">[Lab 9]()</span>  -->
 
 <hr>
 
