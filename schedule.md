@@ -250,11 +250,11 @@ Assignments are due on the day that they are listed.
 <hr>
 
 ### Week 13
-**Tuesday, April 11th** <br>More Serial Communication, Data Logging<br>**Due:** <span class="highlight">[Lab 8](/object-spring-17/lab-8)</span>
+**Tuesday, April 11th** <br>Project 2 Workshopping<br>**Due:** <span class="highlight">[Lab 8](/object-spring-17/lab-8)</span>
 
 <br>
 
-**Thursday, April 13th** <br> Microcontroller Survey, Wireless, Participation + Individual Blog Reviews 
+**Thursday, April 13th** <br> Microcontroller Survey, Data Logging + Networked Sensors, Participation + Individual Blog Reviews
 
 <!-- <br>**Due:** <span class="highlight">[Lab 9]()</span>  -->
 
