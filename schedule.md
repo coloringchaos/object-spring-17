@@ -254,14 +254,12 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, April 13th** <br> Microcontroller Survey, Data Logging + Networked Sensors, Participation + Individual Blog Reviews
-
-<!-- <br>**Due:** <span class="highlight">[Lab 9]()</span>  -->
+**Thursday, April 13th** <br> Microcontroller Survey, Data Logging + Networked Sensors
 
 <hr>
 
 ### Week 14
-**Tuesday, April 18th** <br> **In Class:** <span class="highlight">[Quiz #2]()</span>
+**Tuesday, April 18th** <br> Participation + Individual Blog Reviews <br>**In Class:** <span class="highlight">[Quiz #2]()</span>
 
 <br>
 
