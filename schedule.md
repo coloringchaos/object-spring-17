@@ -285,7 +285,7 @@ Assignments are due on the day that they are listed.
 
 <br>
 
-**Thursday, May 4th** <br>Project Critique<br> **Due:** <span class="highlight">[Project 2](/object-spring-17/project-2)</span>, [provide peer feedback](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSeMEuQhUmUXMQPz9sp131NZ8hGeM_NMgQw5UHQkJHp6Xh5yLA/viewform)
+**Thursday, May 4th** <br>Project Critique, [provide peer feedback](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSeMEuQhUmUXMQPz9sp131NZ8hGeM_NMgQw5UHQkJHp6Xh5yLA/viewform)<br> **Due:** <span class="highlight">[Project 2](/object-spring-17/project-2)</span>
 
 <hr>
 
